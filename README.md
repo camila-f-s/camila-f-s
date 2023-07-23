@@ -24,5 +24,6 @@ Estou animada para aplicar minhas habilidades em projetos reais e continuar cres
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camila-f-s&theme=tokyonight&custom_title=Top%20%Langs)
+-->
