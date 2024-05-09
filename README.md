@@ -1,10 +1,12 @@
-# Olá pessoal! :dizzy:
+# Olá Mundo! :dizzy:
 
-Sou Camila Souza e sou **Full-Stack Developer** desde março de 2023. Tenho uma forte paixão pela tecnologia e comecei a me dedicar à programação em 2019, aprendendo HTML/CSS/JavaScript por conta própria.
+Sou uma Desenvolvedora Full-Stack sempre em busca de desafios que me permitam crescer profissionalmente. Desde 2019, venho mergulhando no mundo da programação, explorando linguagens como JavaScript, Python, Java e C, além de frameworks como React.js e de ferramentas como o Node.js, desde então venho aprimorando minhas habilidades técnicas para criar soluções inovadoras e eficientes.
 
-Além disso, tive a oportunidade de me desenvolver em Design, com habilidades em UX Design, Social Media e Figma, o que me permitiu otimizar meus trabalhos e pensar de forma crítica e detalhista no desenvolvimento de projetos.
+Tenho experiência em trabalhar com ferramentas como Material.UI, Bootstrap e Figma, o que me permite oferecer uma abordagem mais detalhista em cada etapa do desenvolvimento de um projeto.
 
-Estou animada para aplicar minhas habilidades em projetos reais e continuar crescendo na carreira de tecnologia, buscando sempre novos desafios e oportunidades de aprendizado. :metal:
+Busco oportunidades que me permitam aplicar meu conhecimento em projetos desafiadores, onde possa contribuir para o crescimento da empresa e continuar evoluindo como profissional. 
+
+Estou aberta a novas tecnologias e sempre disposta a aprender e me adaptar às demandas do mercado. Quero fazer parte de uma equipe dinâmica e colaborativa, onde possa contribuir com meu conhecimento em tecnologia :metal:
 
 ## :pushpin: Para me encontrar: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-f-s/)
@@ -19,10 +21,11 @@ Estou animada para aplicar minhas habilidades em projetos reais e continuar cres
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![REACT.JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## :woman_student: Estudando:  
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camila-f-s&theme=tokyonight&custom_title=Top%20%Langs)
