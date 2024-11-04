@@ -1,6 +1,6 @@
 # Olá Mundo! :dizzy:
 
-Sou uma Desenvolvedora Full-Stack sempre em busca de desafios que me permitam crescer profissionalmente. Desde 2019, venho mergulhando no mundo da programação, explorando linguagens como JavaScript, Python, Java e C, além de frameworks como React.js e de ferramentas como o Node.js, desde então venho aprimorando minhas habilidades técnicas para criar soluções inovadoras e eficientes.
+Sou uma Desenvolvedora de Software sempre em busca de desafios que me permitam crescer profissionalmente. Desde 2019, venho mergulhando no mundo da programação, explorando linguagens como JavaScript, Python, Java e C, além de frameworks como React.js e de ferramentas como o Node.js, desde então venho aprimorando minhas habilidades técnicas para criar soluções inovadoras e eficientes.
 
 Tenho experiência em trabalhar com ferramentas como Material.UI, Bootstrap e Figma, o que me permite oferecer uma abordagem mais detalhista em cada etapa do desenvolvimento de um projeto.
 
